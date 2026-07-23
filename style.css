@@ -26,16 +26,16 @@ body{
 }
 
 
-.red{
-    background-color:rgb(220,40,40);
+.orange{
+    background-color:rgb(255,165,0);
 }
 
-.blue{
-    background-color:rgb(30,80,220);
+.green{
+    background-color:rgb(173,255,47);
 }
 
-.yellow{
-    background-color:rgb(255,220,0);
+.pink{
+    background-color:rgb(255,105,180);
 }
 
 .box1{
